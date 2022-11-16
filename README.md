@@ -16,4 +16,12 @@
 
 ### Testing Documentation 
 
-Follow Me
+### Follow Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=3776A9)](https://www.linkedin.com/in/aziza-usrv/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=CE2F75)](https://instagram.com/_azvzel_?igshid=YmMyMTA2M2Y=)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=3776A9)](https://t.me/vasha_aziza)
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azazaello&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
