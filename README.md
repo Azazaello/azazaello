@@ -1,6 +1,12 @@
-![Header](https://github.com/Azazaello/azazaello/blob/main/assets/yzaJBzeClIY.jpg)
+<h1 align="center">Hi there, I'm Aziza
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm a QA Engineer</h3>
 
-## I'm a QA Engineer
+
+
+
+
+
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776A9)
