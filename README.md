@@ -7,7 +7,7 @@
 
 
 ### My CV
-[Link to my CV]()
+[Link to my CV](https://docs.google.com/document/d/1BSHWwWAINrF9BXXgALzn2ZiSJBXXZFxTNAK-jm_4-T8/edit?usp=sharing)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776A9)
