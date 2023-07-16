@@ -16,10 +16,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=2680FD)
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=FFFFFF)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=for-the-badge&logo=Jenkins&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Testrail](https://img.shields.io/badge/-Testrail-000000?style=for-the-badge&logo=Testrail&logoColor=FFFFFF)
-![Fiddler](https://img.shields.io/badge/-Fiddler-000000?style=for-the-badge&logo=Fiddler&logoColor=FFFFFF)
 
 ### Testing Documentation 
 - [Checklists](https://github.com/Azazaello/checklist.git)
